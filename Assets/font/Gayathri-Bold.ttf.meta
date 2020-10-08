@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: c4fd670a74618f14c91f79b4454172c6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gayathri
+  fontNames:
+  - Gayathri
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 567e3a10cb4f5504f95b905cb7caa2be, type: 3}
+  - {fileID: 12800000, guid: 1cc705881b8c71a4fa5c26721e196d69, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
